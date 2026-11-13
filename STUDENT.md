@@ -5,4 +5,4 @@
 - Lớp: L3A / L3B / khác: L3A
 - Chủ đề và corpus: Khoa học vũ trụ; 36 đơn vị văn bản từ NASA Science.
 - Repo bài nộp: https://github.com/Thuydesign/K5-L3A-DAY06-NguyenThiThanhThuy-2A202603523-DataIngestion
-- Commit chốt bài:
+- Commit chốt bài: ac139c4a5f2a80b190c4adb2c37f5142d4fd3bef
