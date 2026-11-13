@@ -10,13 +10,13 @@ Biến tài liệu thành kho tri thức có thể truy xuất cho AI agent, r�
 
 ## Bắt đầu nhanh
 
-Dùng [starter PostgreSQL + pgvector](starter/README.md) để dựng database và hoàn thiện các hàm TODO, hoặc tự chọn vector store tương đương. Starter chỉ là khung: **bạn tự hiện thực pipeline và benchmark**.
+Dùng [starter với NASA Science, FastEmbed chạy local và Qdrant embedded](starter/README.md) để tải corpus và chạy pipeline/benchmark; không cần API key, Docker hoặc máy chủ database. Bạn vẫn cần tự kiểm tra nguồn/gold evidence và hoàn thiện nhãn đánh giá thủ công.
 
 ## 1. Xây pipeline
 
 ![Đọc tài liệu, chuẩn hóa, chia chunk, tạo vector, lưu và kiểm tra](assets/ingestion-pipeline.svg)
 
-Chọn tài liệu được phép sử dụng; giữ **ID tài liệu, nguồn, trang/vị trí** và metadata phù hợp. Dùng embedding model thật qua API hoặc chạy local; lưu và truy xuất bằng pgvector, Qdrant, Chroma hoặc một store tương đương.
+Chọn tài liệu được phép sử dụng; giữ **ID tài liệu, nguồn, trang/vị trí** và metadata phù hợp. Starter tải nội dung khoa học từ các trang NASA Science, chạy embedding model thật local và lưu/truy xuất bằng Qdrant embedded. Không đưa dữ liệu riêng tư lên dịch vụ embedding.
 
 ## 2. So sánh và đánh giá
 
@@ -44,4 +44,4 @@ Dùng cùng dữ liệu, model và câu hỏi cho cả ba cấu hình. Tách **1
 | Quy tắc sử dụng dữ liệu, AI và API | [RULES.md](RULES.md) |
 | Cách nộp bài | [SUBMISSION.md](SUBMISSION.md) |
 
-[data/format-example.json](data/format-example.json) chỉ minh họa định dạng, không phải corpus đủ điều kiện. Phần xử lý và benchmark do bạn tự hiện thực; không bắt buộc xây chatbot.
+[data/format-example.json](data/format-example.json) chỉ minh họa định dạng, không phải corpus đủ điều kiện. Không tự điền kết quả chưa chạy hoặc nhãn chưa kiểm chứng; không bắt buộc xây chatbot.

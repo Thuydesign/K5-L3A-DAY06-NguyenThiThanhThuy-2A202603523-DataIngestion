@@ -1,4 +1,6 @@
-# Core setup and PDF parsing. Choose and install an embedding SDK separately.
-psycopg[binary]==3.3.8
+# Local Qdrant vector store, CPU-only local embeddings, and optional PDF ingestion.
+qdrant-client>=1.14,<2
+fastembed>=0.7,<1
+pillow>=10.3,<11
 pypdf>=5,<7
 python-dotenv>=1,<2

@@ -1,0 +1,93 @@
+Tides
+
+Earth's Moon
+
+Tides
+
+3 Quick Facts
+
+The Moon's gravity drives Earth's tides, but high tides don't line up exactly with the Moon's position.
+
+When you see the tide roll in or out, what you’re really seeing is a cycle of small changes in the distribution of our planet’s oceans.
+
+The gravitational pull between Earth and Moon slightly distorts the shapes of both worlds.
+
+Contents
+
+Did You Know?: Tides don’t align perfectly with the Moon.
+
+Here Comes The Sun
+
+What About the Moon?
+
+You walk along a beach, seashells, driftwood and seaweed left by the retreating tides at your feet. Look up at the Moon, and you’re seeing the main cause of the surge and retreat of oceans from our shores. As distant as the Moon may seem, its gravitational pull on Earth plays a huge role in the formation of tides.
+
+To view this video please enable JavaScript, and consider upgrading to a web browser that
+
+supports HTML5 video
+
+Tides rise and fall in Acadia National Park.National Park Service
+
+When you see the tide roll in or out, what you’re really seeing is a cycle of small changes to the distribution of our planet’s oceans. As the Moon’s gravity tugs at Earth, it shifts Earth’s mass, distorting its shape ever so slightly into that of a football ― elongated at the equator and shortened at the poles. This effect on the solid Earth can be detected by scientific instruments, but we can watch the same changes to Earth’s oceans just by visiting the beach.
+
+The Moon and Earth exert a gravitational pull on each other. On Earth, the Moon’s gravitational pull causes the oceans to bulge out on both the side closest to the Moon and the side farthest from the Moon. These bulges create high tides. The low points are where low tides occur. (Graphic not to scale.) NASA/Vi Nguyen
+
+It might seem strange that the ocean would bulge on the side farthest from the Moon as well as the side closest to it. This happens because the Moon’s gravity affects the entire Earth, pulling at every point on our planet. The strongest pull occurs on the points closest to the Moon, and the weakest on the points farthest away, but every bit of water is affected.
+
+Now think about pouring a bucket of water out on a table. It’s easier to slide the water around on the table rather than lift it directly upwards. When the Moon’s gravity pulls at Earth, the water doesn’t float outward, it just gets pushed and squeezed around on the globe, directed by both gravitational pull and other forces, until it ultimately ends up bulging out on the side closest to the Moon and the side farthest away.
+
+The Moon’s gravitational pull on Earth, combined with other, tangential forces, causes Earth’s water to be redistributed, ultimately creating bulges of water on the side closest to the Moon and the side farthest from the Moon. (Graphic not to scale.)NASA/Vi Nguyen
+
+As Earth rotates within this layer of water, its landmasses pass through the two bulges. These bulges are Earth’s high tides. Most shorelines experience two high and low tides per day. One high tide to high tide cycle (or low tide to low tide cycle) takes a little over 12 hours.
+
+Rising and ebbing tides happen as Earth’s landmasses rotate through the tidal bulges created by the Moon’s gravitational pull. Our observer sees the tides rise when passing through the bulges, and fall when passing through the low points. Of course, in reality the Earth isn’t a smooth ball, so tides are also affected by the presence of continents, the shape of the Earth, the depth of the ocean in different locations, and more. The timing and heights of the tide near you will be affected by those additional elements. (Graphic not to scale.)NASA/Vi Nguyen
+
+Did You Know?: Tides don’t align perfectly with the Moon.
+
+Earth’s tidal bulges don’t line up exactly with the Moon’s position. Earth's spin carries the tidal bulge forward (Earth’s spin being much faster than the Moon's orbital period). This means that the high tide bulges are never directly lined up with the Moon, but a little ahead of it. (Graphic not to scale.)NASA/Vi Nguyen
+
+Can you easily predict the tides by following the path of the Moon? Not really! First of all, because the Moon is orbiting in the same direction as the Earth rotates, it takes extra time for any point on our planet to rotate and end up exactly below the Moon. The extra time is ~50 mins. And, the high tide bulges are never directly lined up with the Moon, but a little ahead of it.
+
+In addition, Earth isn’t a perfect, smooth sphere. The tides we actually see at our shores are affected by everything from the shape of Earth’s continents to wind and storms. To get a true estimate of the tides near you, you’ll have to check the local tides forecast.
+
+Here Comes The Sun
+
+Now, the Moon is the biggest influence on Earth’s tides because of its proximity ― but it isn’t the only influence. The Sun ― with about 27 million times the mass of the Moon ― is always the gorilla in the room when it comes to solar system equations. But it’s a distant gorilla, about 390 times farther away than the Moon, which gives it a little less than half of the Moon’s tide-generating force. Yet it still plays a role.
+
+Twice a month, when the Earth, Sun, and Moon line up, their gravitational power combines to make exceptionally high tides where the bulges occur, called spring tides, as well as very low tides where the water has been displaced. About a week later, when the Sun and Moon are at right angles to each other, the Sun’s gravitational pull works against the Moon’s gravitational tug and partially cancels it out, creating the moderate tides called neap tides.
+
+You can tell when a spring tide or neap tide is happening without being anywhere near the water. Spring tides always happen when the Moon is at the full or new phase, which is when the Sun, Moon and Earth are in alignment. Neap tides occur around the first and last quarter phase of the Moon, when the Moon’s orbit around Earth brings it perpendicular to the Sun.
+
+Twice a month, when the Earth, Sun, and Moon line up, their gravitational power combines to make exceptionally high tides, called spring tides, as well as very low tides where the water has been displaced. When the Sun is at a right angle to the Moon, moderate tides, called neap tides, result. From our view on Earth, these tides coincide with certain lunar phases since they occur when the Moon reaches specific positions in its orbit. (Graphic not to scale.)NASA/Vi Nguyen
+
+What About the Moon?
+
+We’ve talked a lot about the effect of the Moon’s gravitational pull on Earth. But what about Earth’s much bigger gravitational influence on the Moon? After all, Earth has 80 times the Moon’s mass. Well, just as the Moon’s pull slightly distorts Earth’s sphere, Earth’s gravity slightly deforms the Moon. It’s not as dramatic as the ocean tides ― think of it as the difference between trying to squish a balloon filled with water and a balloon filled with sand ― but these tides on the Moon are measurable using lasers, and in some cases their effects are visible. Young cliffs on the Moon, called lobate scarps, form due to the combined forces of Earth’s gravity pulling on the lunar surface and the Moon's contraction as its hot interior cools. Sometimes, the contraction causes the Moon’s crust to buckle as it's pushed together and upwards, forming cliffs. Thousands of young, lobate scarps have been revealed in Reconnaissance Orbiter Camera images like the one at right.
+
+Even the routine effects of Earth’s gravitational pull on the Moon must be accounted for in the work of astronomers who bounce lasers off either the bare lunar surface or special reflectors positioned on the Moon to make extremely precise measurements. Earth’s gravitational tide can cause a change of about 4-6 inches (10-15 cm) to the Moon’s surface, so the reflection points rise and fall with the tides.
+
+Lobate scarps are like stair-steps in the landscape formed when the Moon’s crust is squeezed together, breaks, and is pushed upward to create a cliff. Patterns observed in the orientation of these scarps indicate that Earth’s gravitational pull contributes to the cracks' formation.NASA/LRO/Arizona State University/Smithsonian Institution
+
+This video, created using data from NASA's Lunar Reconnaissance Orbiter, displays a small complex of lobate scarps, part of a string of similar scarps that stretches across the lunar farside craters d'Alembert and Slipher.
+
+Writer: Tracy Vogel
+
+Graphic Designer: Vi Nguyen
+
+Science Advisors: Vishnu Viswanathan, Joseph Renaud, NASA's Goddard Space Flight Center
+
+Keep Exploring
+
+Discover More Topics From NASA
+
+International Observe the Moon Night
+
+You're invited! Each International Observe the Moon Night, people around the world celebrate lunar observation, science, exploration, arts, and culture.
+
+Artemis
+
+Lunar Reconnaissance Orbiter
+
+NASA's Lunar Reconnaissance Orbiter (LRO) was sent to the Moon to make high-resolution maps of the composition of the lunar…
+
+Skywatching

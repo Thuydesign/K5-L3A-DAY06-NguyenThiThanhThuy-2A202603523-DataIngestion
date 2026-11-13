@@ -1,0 +1,115 @@
+Moon Composition & Structure
+
+Earth's Moon
+
+Moon Composition & Structure
+
+Quick Facts
+
+The Moon's crust is asymmetrical: thicker on the side farthest from Earth, and thinner on the near side.
+
+The Moon, like Earth, is a layered world with a core, a mantle, and a crust.
+
+Contents
+
+What Is the Moon Made Of?
+
+The Lunar Core
+
+The Lunar Mantle
+
+The Lunar Crust
+
+The Lunar Regolith
+
+How Do We Know What the Moon Is Made Of?
+
+What Is the Moon Made Of?
+
+According to leading theories about how the Moon formed, much of the stuff that makes up the Moon was once part of Earth. And like Earth, the Moon consists of three main layers: a crust, a mantle, and a core.
+
+The Moon, like Earth, is a layered or "differentiated" world with a core, mantle, and crust.NASA
+
+Billions of years ago, the Moon was a molten world. As it solidified, the heaviest materials (metals like iron) sank down into the Moon’s center, and the lighter materials (lower density rocks) rose towards the surface. The result is a structure a bit like a chocolate-dipped cherry – solid core, mostly solid/partly liquid mantle, and thin outer crust.
+
+Earth is an active, lively world. Our planet’s outer core and mantle churn with convection currents, and atop the mantle, tectonic plates diverge and collide. The Moon can seem still and silent in comparison. But the Moon is an active world, too, and its underlying structure is a mystery that scientists are still trying to unravel.
+
+The Moon has layers like Earth, but their proportions are very different. We call planetary bodies with distinct layers “differentiated worlds.” This is a simplified view. In real life, the lunar crust is lopsided: the crust on the Moon’s Earth-facing side is only about ⅔ as thick as the crust on its far side. Scientists are working to find the reason for this asymmetry.NASA/Vi Nguyen
+
+The Lunar Core
+
+The Moon’s core consists of two sections: a solid, mostly iron inner core within a molten outer core. Though primarily made of iron, the core contains some nickel and sulfur as well.
+
+The Moon’s core extends about 20 percent of the way from the Moon’s center to its surface―a smaller proportion than in other well-studied rocky worlds, whose cores can reach up to around 50 percent of their diameters. This relatively small size may be because the Moon’s violent formation left little iron to collect in its center.
+
+The Lunar Mantle
+
+The lunar mantle is the thickest layer of the Moon. It’s mostly solid, but the zone closest to the lunar core is partly molten—some moonquakes may originate here. The Moon’s mantle is mainly composed of basalt rich in olivine and pyroxene. (If you’ve ever seen peridot, you’ve seen the gem form of olivine, a mineral named for its green hue.)
+
+A Moon rock sample collected during the Apollo 17 mission, troctolite 76535, contains olivine (seen here in light-green grains). Explore this Moon rock in this 3D interactive.NASA/Johnson Space Center
+
+The Lunar Crust
+
+The Moon’s crust, or outermost layer, contains a scientific puzzle. The crust is about 37 miles (60 km) thick on the side farthest from Earth, but only 25 miles (40 km) thick on the near side ― quite a difference. Scientists are still trying to find out why the lunar crust is so uneven.
+
+Minerals forming the lunar crust are made up of oxygen, silicon, magnesium, iron, calcium, and aluminum, along with small amounts of titanium, uranium, thorium, potassium, and hydrogen. The Moon’s relatively bright, elevated highlands are rich in elements like calcium and aluminum, while the darker depressions, called maria, have more iron and titanium. (Maria are seas of cooled lava which flooded vast impact basins between 4.2 and 1.2 billion years ago. The lunar highlands are older parts of the crust that survived the intense, basin-forming impacts.)
+
+The surface of the Moon’s crust is full of geologic features. A few examples are:
+
+“Rilles,” channels or or cracks produced by long-past volcanic activity or fracturing crust;
+
+Domes formed when thick lava erupted from volcanic vents;
+
+“Wrinkle ridges,” produced by the buckling of the Moon’s surface under compressive stress, such as the weight of layers of basalt;
+
+And of course, lunar impact craters!
+
+This view of the full moon was photographed from the Apollo 11 spacecraft at a distance of 10,000 nautical miles. The lunar highlands appear bright whitish-grey. Darker areas are maria, seas of cooled lunar lava. NASA
+
+The Gruithuisen Domes are examples of volcanic domes on the Moon.NASA/GSFC/Arizona State University
+
+The Lunar Regolith
+
+Lunar regolith is the Moon’s “soil”. This dusty, rocky substance is the result of a constant cosmic assault on the lunar surface, with attackers ranging from meteorites of all sizes to charged particles from the Sun. The bombardment has broken down the upper layers of the crust, creating a thick layer of loose material that sits on top of the bedrock. Its particles include tiny dust motes, house-sized boulders, and everything in between. They’re rock chips, mineral fragments, impact and volcanic glasses, and “agglutinates” ― bits of minerals glued together with glass, created when the blazing heat of a micrometeorite impact melts some of the lunar soil. The finest fragments, lunar dust, can be smaller than 10-20 microns (much smaller than the width of a human hair).
+
+The lunar regolith is made up of fractured and broken pieces of lunar rocks, sourced from the highlands, mare basalts, and deeper materials excavated by large impacts - perhaps even from the mantle. It also contains pieces of meteorites and debris from throughout the solar system. Generally, the older the surface, the thicker the regolith. The regolith in some parts of the young maria is relatively thin (only a few feet deep, with bedrock completely exposed in rare cases) while the older regolith on the lunar highlands can be 66 feet (20 m) deep.
+
+Beneath the lunar regolith is a region called the megaregolith, which is an upper layer of the crust composed of cracked, shattered bedrock, and massive pieces of impact ejecta.
+
+Astronaut boot prints mark the lunar regolith in this Apollo 15 photograph, taken by astronaut David Scott during a 1971 moonwalk. Part of the Apennine mountains are visible in the background. The grid of black crosses in each Apollo image can be used to calculate distances and heights on the lunar landscape.NASA
+
+How Do We Know What the Moon Is Made Of?
+
+Besides analyzing pieces of the Moon that Apollo astronauts brought home to Earth, scientists learn about the Moon’s composition and structure by studying its light signatures (this is called spectroscopy), rotation, gravitational effects, moonquakes, and more.
+
+Four seismometers deployed on the Moon by NASA astronauts during the Apollo program functioned until 1977 and left behind a wealth of data for researchers that is still being used today. The next generation of moonquake detection begins with experiments like the Farside Seismic Suite, which aims to return NASA’s first lunar seismic data from the far side of the Moon, and LEMS (the Lunar Environment Monitoring Station), a portable seismometer system designed for Artemis III astronauts to deploy on the lunar surface.
+
+Apollo 11’s Passive Seismic Experiment was the first seismometer placed on the Moon’s surface. It detected moonquakes and provided information about the internal structure of the Moon over three weeks. More advanced seismometers were deployed at the Apollo 12, 14, 15, and 16 landing sites and transmitted data to Earth until September 1977.NASA
+
+Scientists also study the Moon’s composition using data from orbiting observatories like the current Lunar Reconnaissance Orbiter (LRO) and the past Gravity Recovery and Interior Laboratory (GRAIL) mission, alongside earthbound projects like Lunar Laser Ranging (LLR), which bounces lasers off reflectors stationed on the Moon.
+
+The more information we have, the better we can refine our understanding of the Moon’s interior. Researchers are looking forward to new samples, new equipment, and new investigations that are expected to result from a return to the Moon via the Artemis missions.
+
+Writer: Tracy Vogel, NASA's Goddard Space Flight Center
+
+Science Advisors: Vishnu Viswanathan and Dan Moriarty, NASA's Goddard Space Flight Center
+
+Keep Exploring
+
+Discover More Topics From NASA
+
+The Moon’s Atmosphere
+
+Does the Moon have an atmosphere? Yes, but just barely. The lunar atmosphere is mostly an exosphere, which itself is…
+
+Lunar Craters
+
+Earth's Moon is covered in craters. Lunar craters tell us the history not only of the Moon, but of our…
+
+Moon Formation
+
+Earth’s Moon was born out of destruction. There are several theories about our Moon’s formation, but almost all share that…
+
+Moon Water and Ices
+
+What’s big, covered in water, yet 100 times drier than the Sahara Desert? It’s not a riddle, it’s the Moon!

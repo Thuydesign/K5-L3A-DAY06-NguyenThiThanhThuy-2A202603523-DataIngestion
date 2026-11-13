@@ -1,0 +1,95 @@
+{
+  "reviewer": "Coherence and grounding labels are preliminary Copilot AI suggestions, not independent student labels. Metadata fields are mechanically compared with the corpus manifest.",
+  "coherence": {
+    "A": {
+      "scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "mean": 1.0,
+      "n": 10
+    },
+    "B": {
+      "scores": [
+        1,
+        2,
+        2,
+        1,
+        2,
+        2,
+        1,
+        2,
+        2,
+        2
+      ],
+      "mean": 1.7,
+      "n": 10
+    },
+    "C": {
+      "scores": [
+        1,
+        2,
+        2,
+        1,
+        2,
+        2,
+        1,
+        2,
+        2,
+        2
+      ],
+      "mean": 1.7,
+      "n": 10
+    }
+  },
+  "metadata": {
+    "correct_and_complete": 45,
+    "records": 45,
+    "filter_compliant": 15,
+    "filtered_records": 15
+  },
+  "grounding": {
+    "A": {
+      "score_counts": {
+        "2": 4,
+        "1": 1
+      },
+      "mean": 1.8,
+      "n": 5
+    },
+    "B": {
+      "score_counts": {
+        "2": 3,
+        "0": 1,
+        "1": 1
+      },
+      "mean": 1.4,
+      "n": 5
+    },
+    "C": {
+      "score_counts": {
+        "2": 4,
+        "1": 1
+      },
+      "mean": 1.8,
+      "n": 5
+    }
+  },
+  "overall_grounding": {
+    "score_counts": {
+      "2": 11,
+      "1": 3,
+      "0": 1
+    },
+    "mean": 1.6666666666666667
+  },
+  "caveat": "Student must read each cited source/hit and replace or confirm coherence and grounding suggestions; do not report those as independent human labels."
+}

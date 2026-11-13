@@ -1,0 +1,208 @@
+{
+  "questions": [
+    {
+      "id": "q01",
+      "split": "dev",
+      "question": "How often does Mercury complete one orbit around the Sun?",
+      "expected_answer": "Every 88 Earth days.",
+      "gold_source_id": "planet_mercury",
+      "gold_page": 1,
+      "evidence_quote": "Mercury is the fastest planet, zipping around the Sun every 88 Earth days."
+    },
+    {
+      "id": "q02",
+      "split": "dev",
+      "question": "Why is Venus hotter at its surface than Mercury?",
+      "expected_answer": "Its thick atmosphere traps heat in a runaway greenhouse effect.",
+      "gold_source_id": "planet_venus",
+      "gold_page": 1,
+      "evidence_quote": "Its thick atmosphere traps heat in a runaway greenhouse effect, making it the hottest planet in our solar system with surface temperatures hot enough to melt lead — about 872 degrees Fahrenheit (467 Celsius)."
+    },
+    {
+      "id": "q03",
+      "split": "dev",
+      "question": "What feature makes Earth unique among the planets in our solar system?",
+      "expected_answer": "It is the only planet in our solar system with liquid water on the surface.",
+      "gold_source_id": "planet_earth",
+      "gold_page": 1,
+      "evidence_quote": "it is the only planet in our solar system with liquid water on the surface."
+    },
+    {
+      "id": "q04",
+      "split": "dev",
+      "question": "In what forms and locations does NASA report water on Mars today?",
+      "expected_answer": "Water ice lies just under the surface in polar regions, and briny water seasonally flows down some hillsides and crater walls.",
+      "gold_source_id": "planet_mars",
+      "gold_page": 1,
+      "evidence_quote": "Today, water on Mars is found in the form of water-ice just under the surface in the polar regions as well as in briny (salty) water, which seasonally flows down some hillsides and crater walls."
+    },
+    {
+      "id": "q05",
+      "split": "dev",
+      "question": "How long is one day on Jupiter?",
+      "expected_answer": "About 9.9 hours.",
+      "gold_source_id": "planet_jupiter",
+      "gold_page": 1,
+      "evidence_quote": "But it has the shortest day in the solar system, taking about 9.9 hours to spin around once on its axis."
+    },
+    {
+      "id": "q06",
+      "split": "dev",
+      "question": "Which two elements make up most of Saturn, as they do the Sun?",
+      "expected_answer": "Hydrogen and helium.",
+      "gold_source_id": "planet_saturn",
+      "gold_page": 1,
+      "evidence_quote": "Saturn is mostly made of hydrogen and helium, the same two main components that make up the Sun."
+    },
+    {
+      "id": "q07",
+      "split": "dev",
+      "question": "How does Uranus's rotation appear from its unusual axial tilt?",
+      "expected_answer": "It appears to spin sideways, like a rolling ball around the Sun.",
+      "gold_source_id": "planet_uranus",
+      "gold_page": 1,
+      "evidence_quote": "Uranus rotates at a nearly 90-degree angle from the plane of its orbit. This unique tilt makes Uranus appear to spin sideways, orbiting the Sun like a rolling ball."
+    },
+    {
+      "id": "q08",
+      "split": "dev",
+      "question": "How strong can Neptune's winds be compared with Earth's?",
+      "expected_answer": "Up to nine times stronger than Earth's.",
+      "gold_source_id": "planet_neptune",
+      "gold_page": 1,
+      "evidence_quote": "Neptune's winds can be three times stronger than Jupiter's and nine times stronger than Earth's."
+    },
+    {
+      "id": "q09",
+      "split": "dev",
+      "question": "Why was Pluto reclassified as a dwarf planet in 2006?",
+      "expected_answer": "The International Astronomical Union reclassified it because other objects might cross its orbit.",
+      "gold_source_id": "dwarf_planet_pluto",
+      "gold_page": 1,
+      "evidence_quote": "Pluto was reclassified as a dwarf planet in 2006 by the International Astronomical Union because other objects might cross its orbit."
+    },
+    {
+      "id": "q10",
+      "split": "dev",
+      "question": "Where is Ceres, and what is notable about its size within the asteroid belt?",
+      "expected_answer": "Ceres is in the asteroid belt between Mars and Jupiter and is its largest object.",
+      "gold_source_id": "dwarf_planet_ceres",
+      "gold_page": 1,
+      "evidence_quote": "Dwarf planet Ceres is the largest object in the asteroid belt between Mars and Jupiter"
+    },
+    {
+      "id": "q11",
+      "split": "dev",
+      "question": "What does the NASA reference say about natural moons orbiting Mercury?",
+      "expected_answer": "Mercury does not have moons.",
+      "gold_source_id": "planet_mercury",
+      "gold_page": 1,
+      "evidence_quote": "Mercury doesn't have moons.",
+      "filter": {
+        "category": "planets"
+      }
+    },
+    {
+      "id": "q12",
+      "split": "dev",
+      "question": "In which named part of the Milky Way is our solar system located?",
+      "expected_answer": "The Orion Arm, also called the Orion Spur.",
+      "gold_source_id": "solar_system_facts",
+      "gold_page": 1,
+      "evidence_quote": "Our Sun is in a small, partial arm of the Milky Way called the Orion Arm, or Orion Spur, between the Sagittarius and Perseus arms.",
+      "filter": {
+        "category": "solar_system"
+      }
+    },
+    {
+      "id": "q13",
+      "split": "dev",
+      "question": "What is the Kuiper Belt, and where is it relative to Neptune?",
+      "expected_answer": "A doughnut-shaped region of icy objects beyond Neptune's orbit.",
+      "gold_source_id": "kuiper_belt",
+      "gold_page": 1,
+      "evidence_quote": "The Kuiper Belt is a doughnut-shaped region of icy objects beyond the orbit of Neptune.",
+      "filter": {
+        "category": "solar_system"
+      }
+    },
+    {
+      "id": "q14",
+      "split": "dev",
+      "question": "What are the Moon's three main internal layers?",
+      "expected_answer": "A crust, a mantle, and a core.",
+      "gold_source_id": "moon_composition",
+      "gold_page": 1,
+      "evidence_quote": "the Moon consists of three main layers: a crust, a mantle, and a core."
+    },
+    {
+      "id": "q15",
+      "split": "dev",
+      "question": "Does the Moon have erupting volcanoes today, and what is its volcanic history?",
+      "expected_answer": "It has no erupting volcanoes today, but it was once flooded with flowing lava.",
+      "gold_source_id": "moon_volcanism",
+      "gold_page": 1,
+      "evidence_quote": "The Moon does not have erupting volcanoes today, but it was once flooded with flowing lava."
+    },
+    {
+      "id": "q16",
+      "split": "test",
+      "question": "What role does the Moon's gravity play in ocean tides on Earth?",
+      "expected_answer": "Its gravitational pull on Earth plays a major role in forming tides.",
+      "gold_source_id": "moon_tides",
+      "gold_page": 1,
+      "evidence_quote": "As distant as the Moon may seem, its gravitational pull on Earth plays a huge role in the formation of tides.",
+      "filter": {
+        "category": "moon"
+      }
+    },
+    {
+      "id": "q17",
+      "split": "test",
+      "question": "What does the term habitable zone mean for a planet orbiting a star?",
+      "expected_answer": "It is the distance from a star where liquid water could exist on orbiting planets' surfaces.",
+      "gold_source_id": "exoplanet_habitable_zone",
+      "gold_page": 1,
+      "evidence_quote": "The definition of “habitable zone” is the distance from a star at which liquid water could exist on orbiting planets’ surfaces.",
+      "filter": {
+        "category": "exoplanets"
+      }
+    },
+    {
+      "id": "q18",
+      "split": "test",
+      "question": "What can escape from a black hole across its event horizon?",
+      "expected_answer": "Nothing, not even light, can escape.",
+      "gold_source_id": "black_holes",
+      "gold_page": 1,
+      "evidence_quote": "A black hole is so dense that gravity just beneath its surface, the event horizon, is strong enough that nothing – not even light – can escape.",
+      "filter": {
+        "category": "universe"
+      }
+    },
+    {
+      "id": "q19",
+      "split": "test",
+      "question": "How does the combined mass of all asteroids compare with the Moon's mass?",
+      "expected_answer": "It is less than the mass of Earth's Moon.",
+      "gold_source_id": "asteroids",
+      "gold_page": 1,
+      "evidence_quote": "The total mass of all the asteroids combined is less than that of Earth's Moon.",
+      "filter": {
+        "category": "small_bodies"
+      }
+    },
+    {
+      "id": "q20",
+      "split": "test",
+      "question": "Has the Oort Cloud been directly observed, and what supports the idea that it exists?",
+      "expected_answer": "It has not been directly observed; its existence is predicted by mathematical models and observations of comets that likely originate there.",
+      "gold_source_id": "solar_system_facts",
+      "gold_page": 1,
+      "evidence_quote": "It has never been directly observed, but its existence is predicted based on mathematical models and observations of comets that likely originate there.",
+      "filter": {
+        "category": "solar_system"
+      }
+    }
+  ]
+}

@@ -1,0 +1,508 @@
+{
+  "documents": [
+    {
+      "document_id": "planet_mercury",
+      "title": "Mercury Facts",
+      "source_path_or_url": "https://science.nasa.gov/mercury/facts/",
+      "path": "nasa_space_science/planet_mercury.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "planets",
+        "language": "en"
+      },
+      "unit_character_count": 6641,
+      "snapshot_sha256": "31ca8317412a62984d3817b5dfc40b727b280349324875ee82159eda6efa578c"
+    },
+    {
+      "document_id": "planet_venus",
+      "title": "Venus Facts",
+      "source_path_or_url": "https://science.nasa.gov/venus/venus-facts/",
+      "path": "nasa_space_science/planet_venus.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "planets",
+        "language": "en"
+      },
+      "unit_character_count": 15291,
+      "snapshot_sha256": "b7e59260a85262dc62c5100e85eaf1a9d9092a4a3564fe16694a35cc528fef09"
+    },
+    {
+      "document_id": "planet_earth",
+      "title": "Earth",
+      "source_path_or_url": "https://science.nasa.gov/earth/facts/",
+      "path": "nasa_space_science/planet_earth.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "planets",
+        "language": "en"
+      },
+      "unit_character_count": 10586,
+      "snapshot_sha256": "b49c008b603d2dcdbbd852978280c1dc518209d30caea2e332a384b62733f05d"
+    },
+    {
+      "document_id": "planet_mars",
+      "title": "Mars Facts",
+      "source_path_or_url": "https://science.nasa.gov/mars/facts/",
+      "path": "nasa_space_science/planet_mars.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "planets",
+        "language": "en"
+      },
+      "unit_character_count": 9603,
+      "snapshot_sha256": "e4da5f9f45124b5716e8bf0b59d5c2322f08582cc0bb6f180a3a9cecf27dcdfd"
+    },
+    {
+      "document_id": "planet_jupiter",
+      "title": "Jupiter Facts",
+      "source_path_or_url": "https://science.nasa.gov/jupiter/jupiter-facts/",
+      "path": "nasa_space_science/planet_jupiter.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "planets",
+        "language": "en"
+      },
+      "unit_character_count": 11917,
+      "snapshot_sha256": "cf6727702dee31a42fb115d5d544343e2ad44d0cd1df3a43ce69c1955b8a8142"
+    },
+    {
+      "document_id": "planet_saturn",
+      "title": "Saturn Facts",
+      "source_path_or_url": "https://science.nasa.gov/saturn/facts/",
+      "path": "nasa_space_science/planet_saturn.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "planets",
+        "language": "en"
+      },
+      "unit_character_count": 8488,
+      "snapshot_sha256": "4505a00806c65c3b78bc6813cef5fe1a9392cec53bf7df286af091deee737741"
+    },
+    {
+      "document_id": "planet_uranus",
+      "title": "Uranus Facts",
+      "source_path_or_url": "https://science.nasa.gov/uranus/facts/",
+      "path": "nasa_space_science/planet_uranus.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "planets",
+        "language": "en"
+      },
+      "unit_character_count": 6741,
+      "snapshot_sha256": "92a38958c8be2b522b1a84162a2ba59fae272bc9ca5420aa4a18e8b0f83a27b6"
+    },
+    {
+      "document_id": "planet_neptune",
+      "title": "Neptune Facts",
+      "source_path_or_url": "https://science.nasa.gov/neptune/neptune-facts/",
+      "path": "nasa_space_science/planet_neptune.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "planets",
+        "language": "en"
+      },
+      "unit_character_count": 9085,
+      "snapshot_sha256": "0915ba8f2b150cb6474df2d8f19fae4dc73585633ea61b37baf2bef537374585"
+    },
+    {
+      "document_id": "dwarf_planet_ceres",
+      "title": "Ceres Facts",
+      "source_path_or_url": "https://science.nasa.gov/dwarf-planets/ceres/facts/",
+      "path": "nasa_space_science/dwarf_planet_ceres.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "planets",
+        "language": "en"
+      },
+      "unit_character_count": 5688,
+      "snapshot_sha256": "ae0a707c0a306f07133479555b91af9416c7041e7f7b1fa4abf54de20fcb78f1"
+    },
+    {
+      "document_id": "dwarf_planet_pluto",
+      "title": "Pluto Facts",
+      "source_path_or_url": "https://science.nasa.gov/dwarf-planets/pluto/facts/",
+      "path": "nasa_space_science/dwarf_planet_pluto.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "planets",
+        "language": "en"
+      },
+      "unit_character_count": 9695,
+      "snapshot_sha256": "aff193205d48a987f0753111eb3a49ba5ccaf3b91f4fbd5597333aaa3c530355"
+    },
+    {
+      "document_id": "solar_system_facts",
+      "title": "Solar System Facts",
+      "source_path_or_url": "https://science.nasa.gov/solar-system/solar-system-facts/",
+      "path": "nasa_space_science/solar_system_facts.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "solar_system",
+        "language": "en"
+      },
+      "unit_character_count": 6132,
+      "snapshot_sha256": "bee6c29c899cf00ae3f91e62c5cb6eda6ddc213f08d00203708a48a3c8218eb9"
+    },
+    {
+      "document_id": "planet_definition",
+      "title": "What is a Planet?",
+      "source_path_or_url": "https://science.nasa.gov/solar-system/planets/what-is-a-planet/",
+      "path": "nasa_space_science/planet_definition.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "planets",
+        "language": "en"
+      },
+      "unit_character_count": 7360,
+      "snapshot_sha256": "eee6a0bbe2b2ab54b88b549b7d2a6b88f69b82a58d8d00649870f4728408b9f0"
+    },
+    {
+      "document_id": "kuiper_belt",
+      "title": "The Kuiper Belt",
+      "source_path_or_url": "https://science.nasa.gov/solar-system/kuiper-belt/",
+      "path": "nasa_space_science/kuiper_belt.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "solar_system",
+        "language": "en"
+      },
+      "unit_character_count": 2418,
+      "snapshot_sha256": "36f807a183b65ad580405259997a0d6015c910c83795da234e20a2dd8aaf8edf"
+    },
+    {
+      "document_id": "oort_cloud",
+      "title": "Oort Cloud",
+      "source_path_or_url": "https://science.nasa.gov/solar-system/oort-cloud/",
+      "path": "nasa_space_science/oort_cloud.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "solar_system",
+        "language": "en"
+      },
+      "unit_character_count": 1639,
+      "snapshot_sha256": "81acc9830e4799aeb892981e1a319aa46acfefc212e0e2a4e120b616e4de23c4"
+    },
+    {
+      "document_id": "planet_x",
+      "title": "Is Planet X Real?",
+      "source_path_or_url": "https://science.nasa.gov/solar-system/planet-x/",
+      "path": "nasa_space_science/planet_x.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "solar_system",
+        "language": "en"
+      },
+      "unit_character_count": 6385,
+      "snapshot_sha256": "659e2f3d00a76e36bbe8cbe03f4a62207e017e06d636d30e2311f463db379fa9"
+    },
+    {
+      "document_id": "asteroids",
+      "title": "Asteroids",
+      "source_path_or_url": "https://science.nasa.gov/solar-system/asteroids/",
+      "path": "nasa_space_science/asteroids.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "small_bodies",
+        "language": "en"
+      },
+      "unit_character_count": 2080,
+      "snapshot_sha256": "a0e1a938d514bb5a22e1ef44ed017a34e7518e809f5106e1172f1daa6cf44512"
+    },
+    {
+      "document_id": "comets",
+      "title": "Comets",
+      "source_path_or_url": "https://science.nasa.gov/solar-system/comets/",
+      "path": "nasa_space_science/comets.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "small_bodies",
+        "language": "en"
+      },
+      "unit_character_count": 1938,
+      "snapshot_sha256": "785ffedc8f5d6aff046849d40f5dedff7ed05ab937a327f021126ad26a6ebee0"
+    },
+    {
+      "document_id": "small_bodies_overview",
+      "title": "Asteroids, Comets & Meteors",
+      "source_path_or_url": "https://science.nasa.gov/asteroids-comets-meteors/",
+      "path": "nasa_space_science/small_bodies_overview.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "small_bodies",
+        "language": "en"
+      },
+      "unit_character_count": 3093,
+      "snapshot_sha256": "9173a197b041ca572cb0ab58f776fa63e351ce2232585df3df74137d35a4786d"
+    },
+    {
+      "document_id": "moon_composition",
+      "title": "Moon Composition & Structure",
+      "source_path_or_url": "https://science.nasa.gov/moon/composition/",
+      "path": "nasa_space_science/moon_composition.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "moon",
+        "language": "en"
+      },
+      "unit_character_count": 8865,
+      "snapshot_sha256": "98cca672de627a0830c661399647544041691a3a162f1f74f142060195c9aa5b"
+    },
+    {
+      "document_id": "moon_dust",
+      "title": "Moon Dust",
+      "source_path_or_url": "https://science.nasa.gov/moon/moon-dust/",
+      "path": "nasa_space_science/moon_dust.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "moon",
+        "language": "en"
+      },
+      "unit_character_count": 3903,
+      "snapshot_sha256": "f1de8a926c85d933bfd3be92680c0aa71e841c35a797b67aecd53c300a039c18"
+    },
+    {
+      "document_id": "moon_volcanism",
+      "title": "Lunar Volcanism",
+      "source_path_or_url": "https://science.nasa.gov/moon/lunar-volcanism/",
+      "path": "nasa_space_science/moon_volcanism.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "moon",
+        "language": "en"
+      },
+      "unit_character_count": 2589,
+      "snapshot_sha256": "445867e34ceeec4631c532a883a6463603466e4099fc8029b2dc172ce926d804"
+    },
+    {
+      "document_id": "moon_tides",
+      "title": "Tides",
+      "source_path_or_url": "https://science.nasa.gov/moon/tides/",
+      "path": "nasa_space_science/moon_tides.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "moon",
+        "language": "en"
+      },
+      "unit_character_count": 8988,
+      "snapshot_sha256": "c5b99f0e88f6cfeefd8e02cb003a44aa1dc55d8369608ba1f8e8fc5f61a5fa9a"
+    },
+    {
+      "document_id": "moon_phases",
+      "title": "Moon Phases",
+      "source_path_or_url": "https://science.nasa.gov/moon/moon-phases/",
+      "path": "nasa_space_science/moon_phases.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "moon",
+        "language": "en"
+      },
+      "unit_character_count": 11507,
+      "snapshot_sha256": "0ea80078c53e620f0de728430b0ed1f35637d2ead97c8d3a381b262f166b50bb"
+    },
+    {
+      "document_id": "sun_facts",
+      "title": "Our Sun: Facts",
+      "source_path_or_url": "https://science.nasa.gov/sun/facts/",
+      "path": "nasa_space_science/sun_facts.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "sun",
+        "language": "en"
+      },
+      "unit_character_count": 17666,
+      "snapshot_sha256": "b924f0889b5eb08960f3d613df159c86b0ea3918d5db0640e8da83e7535fbe4d"
+    },
+    {
+      "document_id": "exoplanet_habitable_zone",
+      "title": "The Habitable Zone",
+      "source_path_or_url": "https://science.nasa.gov/exoplanets/habitable-zone/",
+      "path": "nasa_space_science/exoplanet_habitable_zone.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "exoplanets",
+        "language": "en"
+      },
+      "unit_character_count": 7282,
+      "snapshot_sha256": "6a8f24d627e2ee7a5bd81c8952242b302e99bf9cc4f7028b3935472c3f3bf47f"
+    },
+    {
+      "document_id": "exoplanet_search",
+      "title": "Why We Search",
+      "source_path_or_url": "https://science.nasa.gov/exoplanets/why-we-search/",
+      "path": "nasa_space_science/exoplanet_search.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "exoplanets",
+        "language": "en"
+      },
+      "unit_character_count": 5121,
+      "snapshot_sha256": "e0aa5db7f7c3c082ee770adf0dae3b035b7beded35cecff12db4cecd32965864"
+    },
+    {
+      "document_id": "exoplanet_catalog",
+      "title": "Exoplanet Catalog",
+      "source_path_or_url": "https://science.nasa.gov/exoplanets/exoplanet-catalog/",
+      "path": "nasa_space_science/exoplanet_catalog.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "exoplanets",
+        "language": "en"
+      },
+      "unit_character_count": 4240,
+      "snapshot_sha256": "1f3ac9752df3accb4bc404866f80b79da010ff651ca2fd3c83fec35cecc090ad"
+    },
+    {
+      "document_id": "black_holes",
+      "title": "Black Hole Basics",
+      "source_path_or_url": "https://science.nasa.gov/universe/black-holes/",
+      "path": "nasa_space_science/black_holes.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "universe",
+        "language": "en"
+      },
+      "unit_character_count": 4916,
+      "snapshot_sha256": "abb1eac17f158cb3952cdf37fc86143f20c25cdb8b1aab62d60a99a36c59655d"
+    },
+    {
+      "document_id": "black_hole_anatomy",
+      "title": "Black Hole Anatomy",
+      "source_path_or_url": "https://science.nasa.gov/universe/black-holes/anatomy/",
+      "path": "nasa_space_science/black_hole_anatomy.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "universe",
+        "language": "en"
+      },
+      "unit_character_count": 5949,
+      "snapshot_sha256": "27ad38a50544e211650c47cb303f36bec303d2b08e59293f651b7ece96e40846"
+    },
+    {
+      "document_id": "galaxies",
+      "title": "Galaxy Basics",
+      "source_path_or_url": "https://science.nasa.gov/universe/galaxies/",
+      "path": "nasa_space_science/galaxies.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "universe",
+        "language": "en"
+      },
+      "unit_character_count": 2684,
+      "snapshot_sha256": "aa72103f1088bdfaf810f871b9e6f3b7d36548198b86e815e99314c1aa9c0a2b"
+    },
+    {
+      "document_id": "galaxy_types",
+      "title": "Galaxy Types",
+      "source_path_or_url": "https://science.nasa.gov/universe/galaxies/types/",
+      "path": "nasa_space_science/galaxy_types.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "universe",
+        "language": "en"
+      },
+      "unit_character_count": 9596,
+      "snapshot_sha256": "c4b3da7ffba45862ead2695724bc03d38c684068cd9e60ea8a92a89aef0057e3"
+    },
+    {
+      "document_id": "stars",
+      "title": "Star Basics",
+      "source_path_or_url": "https://science.nasa.gov/universe/stars/",
+      "path": "nasa_space_science/stars.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "universe",
+        "language": "en"
+      },
+      "unit_character_count": 6065,
+      "snapshot_sha256": "3fda146ac475571c06ef92f44f2368b3f78be54e77f2170860170b5f8b8f2997"
+    },
+    {
+      "document_id": "webb_telescope",
+      "title": "James Webb Space Telescope",
+      "source_path_or_url": "https://science.nasa.gov/mission/webb/",
+      "path": "nasa_space_science/webb_telescope.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "missions",
+        "language": "en"
+      },
+      "unit_character_count": 9037,
+      "snapshot_sha256": "83b336c18da96e56e7deccddda7b67b19ba22cb7e3b67ae92dd3d8be56bab85d"
+    },
+    {
+      "document_id": "hubble_telescope",
+      "title": "Hubble Space Telescope",
+      "source_path_or_url": "https://science.nasa.gov/mission/hubble/",
+      "path": "nasa_space_science/hubble_telescope.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "missions",
+        "language": "en"
+      },
+      "unit_character_count": 5413,
+      "snapshot_sha256": "8bcb55b806a6d913d40eef9ff89b3db2a074da2724cb36f361d85ef65b9b0ddb"
+    },
+    {
+      "document_id": "voyager_mission",
+      "title": "Voyager",
+      "source_path_or_url": "https://science.nasa.gov/mission/voyager/",
+      "path": "nasa_space_science/voyager_mission.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "missions",
+        "language": "en"
+      },
+      "unit_character_count": 3655,
+      "snapshot_sha256": "03c67c15cd718922de935ffac9979685567371bb2de1cf8bcfde31367131dc2b"
+    },
+    {
+      "document_id": "psyche_mission",
+      "title": "Psyche",
+      "source_path_or_url": "https://science.nasa.gov/mission/psyche/",
+      "path": "nasa_space_science/psyche_mission.txt",
+      "license_or_permission": "NASA Science, a U.S. Government source, accessed for this noncommercial educational lab. Credit NASA and the linked source. NASA notes that third-party material may have separate rights; the source page does not state a separate text license, so verify redistribution rights before publishing the corpus.",
+      "accessed_at": "2026-11-13",
+      "metadata": {
+        "category": "missions",
+        "language": "en"
+      },
+      "unit_character_count": 3083,
+      "snapshot_sha256": "00c0673e341b65391466abf7204592ad67c14be242d1a9753e3c576e335bafc8"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "python_version": "3.10.8",
+  "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "embedding_dimensions": 384,
+  "embedding_library": "FastEmbed (ONNX Runtime, CPU)",
+  "embedding_model_license": "apache-2.0",
+  "vector_store": "Qdrant embedded local",
+  "vector_store_path": "D:\\K5-L3-Day06-DataIngestionEngineering\\starter\\results\\qdrant_local",
+  "similarity": "cosine",
+  "search_mode": "exact (embedded local mode, HNSW disabled)",
+  "non_empty_content_pages": 36,
+  "question_count": 20,
+  "strategy_stats": {
+    "A": {
+      "chunk_count": 562,
+      "total_chunk_characters": 271394,
+      "chunk_length_characters": {
+        "min": 12,
+        "median": 500.0,
+        "max": 500
+      },
+      "embedding_seconds": 52.573,
+      "store_write_seconds": 5.636,
+      "total_build_seconds": 58.209,
+      "time_note": "Includes local document embedding and index write."
+    },
+    "B": {
+      "chunk_count": 300,
+      "total_chunk_characters": 242706,
+      "chunk_length_characters": {
+        "min": 22,
+        "median": 860.0,
+        "max": 1000
+      },
+      "embedding_seconds": 31.835,
+      "store_write_seconds": 2.881,
+      "total_build_seconds": 34.716,
+      "time_note": "Includes local document embedding and index write."
+    },
+    "C": {
+      "chunk_count": 300,
+      "total_chunk_characters": 242706,
+      "chunk_length_characters": {
+        "min": 22,
+        "median": 860.0,
+        "max": 1000
+      },
+      "embedding_seconds": 0.0,
+      "store_write_seconds": 3.048,
+      "total_build_seconds": 3.048,
+      "time_note": "Embedding is reused from B; this is incremental index-write time."
+    }
+  },
+  "embedding_api_requests": 0,
+  "embedding_tokens": null,
+  "embedding_token_usage_complete": false,
+  "embedding_cost_usd": 0,
+  "cost_note": "Embeddings run locally; no embedding API was called."
+}

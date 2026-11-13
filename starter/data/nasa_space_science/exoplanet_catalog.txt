@@ -1,0 +1,333 @@
+Exoplanet Catalog
+
+Explore This Section
+
+Exoplanet Catalog
+
+This exoplanetary encyclopedia — continuously updated, with more than 6,000 entries — combines interactive 3D models and detailed data on all confirmed exoplanets. When you select a planet’s name, see a visualization of each world and system, along with vital statistics. Filter by exoplanet type, by discovery method, or by the mission or facility that found it.
+
+key to exoplanet types
+
+Terrestrial
+
+A type of exoplanet made of rock or metal, smaller than Earth, possibly with oceans or atmospheres (artist's concept).
+
+Super Earth
+
+Super-Earth exoplanets are also rocky, but between Earth and Neptune in size (artist's concept).
+
+Neptune-like
+
+This variety of exoplanet is similar in size to Uranus and Neptune, with an atmosphere of mostly hydrogen or helium (artist's concept).
+
+Gas Giant
+
+Gas Giant exoplanets are as massive as Saturn or Jupiter, or larger; this category also includes "hot Jupiters," which orbit close to their stars (artist's concept).
+
+Unknown
+
+Illustration of an exoplanet whose type is unknown.
+
+Filters
+
+TYC 4998-437-1 b
+
+Parsecs from Earth:
+
+Unknown
+
+Planet Mass:
+
+28.81 Jupiters
+
+Stellar Magnitude:
+
+Unknown
+
+Discovery Date:
+
+2026
+
+HIP 105707 b
+
+Parsecs from Earth:
+
+Unknown
+
+Planet Mass:
+
+24.55 Jupiters
+
+Stellar Magnitude:
+
+Unknown
+
+Discovery Date:
+
+2026
+
+KMT-2026-BLG-0083L c
+
+Parsecs from Earth:
+
+Unknown
+
+Planet Mass:
+
+1.54 Jupiters
+
+Stellar Magnitude:
+
+Unknown
+
+Discovery Date:
+
+2026
+
+KMT-2026-BLG-0083L b
+
+Parsecs from Earth:
+
+Unknown
+
+Planet Mass:
+
+2.65 Jupiters
+
+Stellar Magnitude:
+
+Unknown
+
+Discovery Date:
+
+2026
+
+TIC 220432308 b
+
+Parsecs from Earth:
+
+Unknown
+
+Planet Mass:
+
+5.73 Earths
+
+Stellar Magnitude:
+
+Unknown
+
+Discovery Date:
+
+2026
+
+TOI-4596 b
+
+Parsecs from Earth:
+
+Unknown
+
+Planet Mass:
+
+7.68 Earths
+
+Stellar Magnitude:
+
+Unknown
+
+Discovery Date:
+
+2026
+
+TOI-5217 A b
+
+Parsecs from Earth:
+
+517.506
+
+Planet Mass:
+
+1.282 Jupiters
+
+Stellar Magnitude:
+
+11.58
+
+Discovery Date:
+
+2026
+
+TOI-7176 b
+
+Parsecs from Earth:
+
+69.3535
+
+Planet Mass:
+
+0.632 Jupiters
+
+Stellar Magnitude:
+
+11.46
+
+Discovery Date:
+
+2026
+
+TOI-7025 b
+
+Parsecs from Earth:
+
+429.239
+
+Planet Mass:
+
+0.873 Jupiters
+
+Stellar Magnitude:
+
+11.847
+
+Discovery Date:
+
+2026
+
+TOI-6842 A b
+
+Parsecs from Earth:
+
+399.765
+
+Planet Mass:
+
+0.302 Jupiters
+
+Stellar Magnitude:
+
+12.165
+
+Discovery Date:
+
+2026
+
+TOI-6649 b
+
+Parsecs from Earth:
+
+201.21
+
+Planet Mass:
+
+0.645 Jupiters
+
+Stellar Magnitude:
+
+10.322
+
+Discovery Date:
+
+2026
+
+TOI-6457 b
+
+Parsecs from Earth:
+
+263.807
+
+Planet Mass:
+
+0.49 Jupiters
+
+Stellar Magnitude:
+
+10.955
+
+Discovery Date:
+
+2026
+
+TOI-5893 b
+
+Parsecs from Earth:
+
+320.641
+
+Planet Mass:
+
+1.012 Jupiters
+
+Stellar Magnitude:
+
+12.006
+
+Discovery Date:
+
+2026
+
+TOI-1355 b
+
+Parsecs from Earth:
+
+248.148
+
+Planet Mass:
+
+Unknown
+
+Stellar Magnitude:
+
+8.72
+
+Discovery Date:
+
+2026
+
+TOI-713 b
+
+Parsecs from Earth:
+
+69.3653
+
+Planet Mass:
+
+1.754 Earths
+
+Stellar Magnitude:
+
+11.863
+
+Discovery Date:
+
+2026
+
+For each exoplanet listed above, the thumbnail image (artist's concept) links to an interactive 3D representation of the planet. When you get to that detail page with the 3D visualization, learn more about the exoplanet — including how long it would take to get there from Earth — by selecting the “Learn More” button next to the exoplanet's name.
+
+Do NASA Science and Explore Key Questions about the Universe
+
+01
+
+Exoplanet Watch
+
+NASA invites people of all ages and backgrounds to participate in authentic NASA research via "citizen science" or "participatory science" projects, where volunteers and amateurs have helped make thousands of important scientific discoveries. As a part of the Exoplanet Watch project, you'll help scientists track and study exoplanets as they transit in front of stars.
+
+Get Involved
+
+02
+
+UNITE
+
+Do you have your own telescope? You can help observe newly discovered exoplanets and collect information about their transits to help characterize their orbits. UNITE participants coordinate with other citizen scientists and researchers around the globe to track and learn about these new worlds.
+
+Learn More
+
+Keep Exploring
+
+Discover More Topics From NASA
+
+Exoplanet Stories
+
+The Habitable Zone
+
+Search for Life
+
+NASA Exoplanet Science Institute (NExScI)

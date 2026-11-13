@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,fixed character windows,500,50,"document_id; source; page; category; language",none,"FastEmbed local: paraphrase-multilingual-MiniLM-L12-v2 (384d)","Fixed windows with overlap may retain local context but can split semantic units.",7/15,10/15,1/5,1/5,"562 chunks; build 58.209s (embed 52.573s + write 5.636s); embedding API calls 0; cost $0."
+B,paragraph-aware,1000,N/A,"document_id; source; page; category; language",none,"FastEmbed local: paraphrase-multilingual-MiniLM-L12-v2 (384d)","Paragraph-aware chunks may preserve complete ideas with fewer chunks.",6/15,8/15,0/5,2/5,"300 chunks; build 34.716s (embed 31.835s + write 2.881s); embedding API calls 0; cost $0."
+C,paragraph-aware,1000,N/A,"document_id; source; page; category; language","question-provided category filter","FastEmbed local: paraphrase-multilingual-MiniLM-L12-v2 (384d)","Filtering the B chunks by a user-supplied category may reduce topical noise.",6/15,8/15,1/5,3/5,"Same 300 chunks/vectors as B; build 3.048s is incremental index write with B vectors reused, not an independent build; embedding API calls 0; cost $0. Selection used dev Evidence Hit@3; test was later inspected and is exploratory."
